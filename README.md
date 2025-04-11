@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Dmytro 👋  
+**Front-End Developer** focused on building clean, responsive, and user-friendly interfaces.
 
-<!--
-**Dima2430/Dima2430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎯 Specializing in **React**, **JavaScript**, and modern **UI development**
+- 🧠 CS student at IU | Certified Fullstack Dev @ GoIT
+- 🚀 Currently learning **Java** and **Python**
+- 💼 Open to **remote junior front-end roles**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📄 Resume  
+[Resume](https://dima2430.github.io/resume/)
+
+## 🔗 Connect With Me  
+[LinkedIn](https://linkedin.com/in/dmytro-volk-7305b02a0) • [GitHub](https://github.com/Dima2430)
+
+

@@ -24,8 +24,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-## 📄 Resume  
-[Resume](https://dima2430.github.io/resume/)
 
 ## 🔗 Connect With Me  
 [LinkedIn](https://linkedin.com/in/dmytro-volk-7305b02a0) 
